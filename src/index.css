@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-background\/70 {
+  background-color: hsl(var(--nextui-background) / 0);
+}
